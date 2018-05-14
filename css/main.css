@@ -1,0 +1,39 @@
+ul {
+  background-color: red;
+  margin: 10px;
+  padding: 25px;
+}
+li {
+  background-color: red;
+  display: inline;
+  padding: 10px;
+}
+.box {
+  display: inline-block;
+  width: 40%;
+}
+img {
+  margin: 10px;
+  border: 20px;
+  padding: 25px;
+}
+.box .intro {
+  background-color: #2BA8E0;
+}
+.css {
+  background-color: #EE6526;
+}
+body {
+  text-align: center;
+
+}
+.new {
+  background-color: blue;
+  height: 110px;
+  width: 110px;
+  border-radius: 50% ;
+}
+.nonew {
+  background-color: yellow;
+  
+}
